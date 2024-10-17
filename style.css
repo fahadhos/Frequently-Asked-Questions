@@ -1,0 +1,50 @@
+*{
+
+    box-sizing: border-box;
+    margin: 0px ;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+
+
+nav{
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+}
+h1{
+    font-size: 36px;
+}
+
+
+/* .. */
+
+.how-container{
+ margin-top: 10%;
+ margin-left: 20%;
+  
+ h2{
+    font-size: 24px;
+ }
+
+ ol>li{
+    margin-bottom: 1rem;
+ }
+}
+p{
+    font-size: 16px;
+}
+.return-policy-container{
+ margin-top: 2rem;
+ margin-left: 20%;
+  margin-bottom: 4rem;
+ span{
+    font-weight: bold;
+ }
+
+ ul>li{
+    margin-bottom: 0.6rem;
+ }
+}
+
